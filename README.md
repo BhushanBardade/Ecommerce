@@ -8,3 +8,6 @@
 4. backend folder created and npm project in backend folder.
 5. install express js in backend folder.
 6. install Axios - fetch data from - API - useState
+7. npm install react-bootstrap bootstrap
+8. npm install react-router-bootstrap
+9. import index.js -- import 'bootstrap/dist/css/bootstrap.min.css';
